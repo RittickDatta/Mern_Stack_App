@@ -1,4 +1,6 @@
 {
     "mongoURI":"mongodb+srv://rittick123:rittick123@devconnector-sjfpp.mongodb.net/test?retryWrites=true&w=majority",
-    "jwtSecret":"mysecrettoken"
+    "jwtSecret":"mysecrettoken",
+    "githubclientId": "5dc12fa42f41926e0606",
+    "githubsecret" : "638f1a0e1094272fbd002f9f6cd3e7b13b1ac0df"
 }
